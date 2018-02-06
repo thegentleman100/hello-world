@@ -1,2 +1,2 @@
 # hello-world
-this is my first repository
+Hi, this is Jama Thegentleman ya'll this the first time ever that I try to use github, and it's awesome!
